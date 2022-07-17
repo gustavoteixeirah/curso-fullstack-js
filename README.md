@@ -3,9 +3,11 @@
 ```
 yarn init -y
 
-yarn add typescript ts-node
+yarn add typescript jest @types/jest nodemon ts-node ts-jest express @types/express axios pg-promise
 
 npx tsc --init
+
+npx ts-jest config:init
 ```
 
 rodar:
