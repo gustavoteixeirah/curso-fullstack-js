@@ -13,6 +13,8 @@ npx ts-jest config:init
 rodar:
 ```
  npx ts-node src/main.js
+ 
+ npx nodemon  .\src\main.ts
 ```
 
 
